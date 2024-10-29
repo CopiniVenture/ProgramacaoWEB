@@ -1,0 +1,32 @@
+p {
+    display: inline;
+    background-color: blueviolet;
+    color: rgb(66, 232, 61);
+    border-radius: 5px;
+    margin: 10px;
+    padding: 5px;
+}
+
+header {
+    background-color: aquamarine;
+    padding: 2%;
+    text-align: center;
+}
+
+main {
+    padding: 13%;
+    text-align: center;
+}
+
+
+body {
+    background-color:rgb(182, 154, 227);
+
+}
+
+footer {
+    background-color: aquamarine;
+    padding: 2%;
+    text-align: center;
+}
+

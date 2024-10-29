@@ -1,0 +1,32 @@
+nav {
+    display: inline-block;
+    view-timeline: 20%;
+}
+
+nav ul li {
+    display: inline-block;
+    width: 20vw;
+}
+
+a {
+	border-radius: 15px;
+	color: #ff79d2;
+	font-weight: bold;
+	background-color: #0151da;
+	padding: 10px;
+}
+
+p {
+    display: inline-block;
+    width: 45%;
+    background-color: #0151da;
+    color: #ff79d2;
+    border: solid;
+    box-shadow: 5px 5px 15px -5px #000;
+
+}
+
+.texto1{
+    margin-right: 5%;
+}
+
